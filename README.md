@@ -1,1 +1,1 @@
-# odin-recipes1
+create recipes that link to recipes that I like, lowkey may use it # odin-recipes1
